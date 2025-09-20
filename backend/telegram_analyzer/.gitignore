@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Flask instance folder
+instance/
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+*.pid
+
+# SQLs
+*.db
