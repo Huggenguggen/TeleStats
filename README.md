@@ -110,5 +110,3 @@ telestats/
 * Consider backend optimizations for very large chat exports.
 
 ---
-
-If you want, I can also make a **one-page “visual overview” diagram** of the architecture and flow from upload → database → dashboard → search for your README. It would make this summary even more intuitive. Do you want me to do that next?
